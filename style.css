@@ -16,7 +16,7 @@
 }
 
 header {
-    height: 50px;
+    height: 10vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +28,7 @@ header {
     }
 
 nav {
-    height: auto;
+    height: 80vh;
     width: 25%;
     text-align: center;
     padding-top: 14.4%;
@@ -37,7 +37,7 @@ nav {
     }
 
 main {
-    height: auto;
+    height: 80vh;
     width: 75%;
     text-align: center;
     padding-top: 14.4%;
@@ -46,7 +46,7 @@ main {
     }
 
 footer {
-    height: 50px;
+    height: 10vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
